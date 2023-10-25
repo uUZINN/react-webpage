@@ -6,7 +6,7 @@
 주로 웹 애플리케이션의 프론트엔드 개발에 활용되며, 단일 페이지 애플리케이션(SPA)부터 전통적인 웹 애플리케이션까지 다양한 유형의 웹 애플리케이션을 구축하는 데 사용됩니다.
 
 ## 설치
-npx create-react-app react-webpage
+npx create-react-app react-webpage<br>
 code .     → vs코드 바로 열기
 
 ## 디자인
