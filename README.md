@@ -8,6 +8,9 @@
 컴퍼넌트 및 props를 이용하여 사이트를 만들고 사이트를 구성합니다.
 가상 돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, jsx를 이용하여 작업하였습니다.
 
+## 미리보기
+https://react-webpage11.netlify.app/
+
 ## 설치
 npx create-react-app react-webpage<br>
 code .     → vs코드 바로 열기
